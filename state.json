@@ -1773,9 +1773,9 @@
           "mapId": "cs2-match-2400202-map-1",
           "kills": 23,
           "deaths": 23,
-          "assists": 9,
-          "adr": 79.2,
-          "rating": 1.05,
+          "assists": 8,
+          "adr": 83.57,
+          "rating": 1.06,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1785,9 +1785,9 @@
           "mapId": "cs2-match-2400202-map-1",
           "kills": 14,
           "deaths": 24,
-          "assists": 8,
-          "adr": 39.9,
-          "rating": 0.73,
+          "assists": 7,
+          "adr": 46.89,
+          "rating": 0.76,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1798,8 +1798,8 @@
           "kills": 24,
           "deaths": 26,
           "assists": 9,
-          "adr": 83.2,
-          "rating": 0.98,
+          "adr": 87.69,
+          "rating": 1,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1810,8 +1810,8 @@
           "kills": 34,
           "deaths": 26,
           "assists": 8,
-          "adr": 96,
-          "rating": 1.17,
+          "adr": 109.46,
+          "rating": 1.22,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1821,9 +1821,9 @@
           "mapId": "cs2-match-2400202-map-1",
           "kills": 24,
           "deaths": 23,
-          "assists": 7,
-          "adr": 73.4,
-          "rating": 1.03,
+          "assists": 6,
+          "adr": 77.49,
+          "rating": 1.04,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1833,8 +1833,8 @@
           "mapId": "cs2-match-2400202-map-1",
           "kills": 19,
           "deaths": 26,
-          "assists": 18,
-          "adr": 67.4,
+          "assists": 15,
+          "adr": 71.66,
           "rating": 0.94,
           "ratingVersion": "cito_rating_1"
         },
@@ -1846,8 +1846,8 @@
           "kills": 28,
           "deaths": 22,
           "assists": 7,
-          "adr": 87.5,
-          "rating": 1.15,
+          "adr": 95.8,
+          "rating": 1.19,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1858,8 +1858,8 @@
           "kills": 31,
           "deaths": 21,
           "assists": 3,
-          "adr": 90.7,
-          "rating": 1.2,
+          "adr": 99.91,
+          "rating": 1.22,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1870,8 +1870,8 @@
           "kills": 28,
           "deaths": 25,
           "assists": 5,
-          "adr": 72.6,
-          "rating": 1.01,
+          "adr": 79.34,
+          "rating": 1.04,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1881,9 +1881,9 @@
           "mapId": "cs2-match-2400202-map-1",
           "kills": 16,
           "deaths": 26,
-          "assists": 11,
-          "adr": 58.8,
-          "rating": 0.84,
+          "assists": 9,
+          "adr": 64.23,
+          "rating": 0.85,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1894,8 +1894,8 @@
           "kills": 22,
           "deaths": 20,
           "assists": 6,
-          "adr": 71.6,
-          "rating": 1.01,
+          "adr": 81.47,
+          "rating": 1.06,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1906,8 +1906,8 @@
           "kills": 18,
           "deaths": 18,
           "assists": 6,
-          "adr": 58.3,
-          "rating": 0.98,
+          "adr": 66.17,
+          "rating": 1.01,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1917,8 +1917,8 @@
           "mapId": "cs2-match-2400202-map-2",
           "kills": 17,
           "deaths": 25,
-          "assists": 9,
-          "adr": 81,
+          "assists": 8,
+          "adr": 83.43,
           "rating": 0.88,
           "ratingVersion": "cito_rating_1"
         },
@@ -1929,9 +1929,9 @@
           "mapId": "cs2-match-2400202-map-2",
           "kills": 20,
           "deaths": 26,
-          "assists": 14,
-          "adr": 75.8,
-          "rating": 0.94,
+          "assists": 12,
+          "adr": 82.83,
+          "rating": 0.95,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1941,9 +1941,9 @@
           "mapId": "cs2-match-2400202-map-2",
           "kills": 27,
           "deaths": 22,
-          "assists": 7,
-          "adr": 87.6,
-          "rating": 1.14,
+          "assists": 6,
+          "adr": 95.33,
+          "rating": 1.16,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1953,9 +1953,9 @@
           "mapId": "cs2-match-2400202-map-2",
           "kills": 18,
           "deaths": 23,
-          "assists": 13,
-          "adr": 82.7,
-          "rating": 0.98,
+          "assists": 15,
+          "adr": 90.27,
+          "rating": 1.03,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1966,8 +1966,8 @@
           "kills": 23,
           "deaths": 20,
           "assists": 11,
-          "adr": 87,
-          "rating": 1.17,
+          "adr": 93.13,
+          "rating": 1.19,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1977,9 +1977,9 @@
           "mapId": "cs2-match-2400202-map-2",
           "kills": 25,
           "deaths": 21,
-          "assists": 6,
-          "adr": 79.9,
-          "rating": 1.07,
+          "assists": 2,
+          "adr": 90.4,
+          "rating": 1.08,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -1989,9 +1989,9 @@
           "mapId": "cs2-match-2400202-map-2",
           "kills": 17,
           "deaths": 23,
-          "assists": 11,
-          "adr": 70.8,
-          "rating": 0.91,
+          "assists": 10,
+          "adr": 73.7,
+          "rating": 0.92,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -2002,8 +2002,8 @@
           "kills": 26,
           "deaths": 19,
           "assists": 6,
-          "adr": 77.9,
-          "rating": 1.15,
+          "adr": 88.77,
+          "rating": 1.19,
           "ratingVersion": "cito_rating_1"
         },
         {
@@ -3053,5 +3053,5 @@
   "warnings": [
     "Источник ограничивает список результатов: часть матчей за последние 7 дней может отсутствовать."
   ],
-  "updatedAt": "2026-11-14T16:43:53.801Z"
+  "updatedAt": "2026-11-14T22:19:30.712Z"
 }
