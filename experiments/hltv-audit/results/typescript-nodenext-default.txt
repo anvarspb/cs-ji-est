@@ -1,0 +1,1 @@
+types/default-import.mts(4,26): error TS2339: Property 'getMatches' does not exist on type 'typeof import("C:/Users/Admin/Documents/\u043F\u0440\u043E\u0435\u043A\u0442\u044B/CS JI EST/experiments/hltv-audit/node_modules/hltv/lib/index")'.

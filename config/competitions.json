@@ -1,0 +1,7 @@
+{
+  "events": [
+    { "id": "cs2-event-8251", "name": "BLAST Rivals 2026 Season 2", "tier": 1 },
+    { "id": "cs2-event-9303", "name": "PGL Major Singapore 2026 Stage 1", "tier": 1 }
+  ],
+  "comment": "Explicit event editions verified in Cito responses. Add future event IDs here; qualifiers are never admitted by name or API tier alone. All participants of an approved event are allowed."
+}

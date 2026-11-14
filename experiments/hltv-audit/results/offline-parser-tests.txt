@@ -1,0 +1,244 @@
+TAP version 13
+# Subtest: Node ESM: named constructor works; native default is a CJS wrapper
+ok 1 - Node ESM: named constructor works; native default is a CJS wrapper
+  ---
+  duration_ms: 1.9743
+  type: 'test'
+  ...
+# Subtest: getMatches: schedule, LIVE, team/event IDs, date and format
+ok 2 - getMatches: schedule, LIVE, team/event IDs, date and format
+  ---
+  duration_ms: 17.2532
+  type: 'test'
+  ...
+# Subtest: getMatches: missing event directory silently removes event identity
+ok 3 - getMatches: missing event directory silently removes event identity
+  ---
+  duration_ms: 2.4747
+  type: 'test'
+  ...
+# Subtest: getMatches: changed card selector silently returns incomplete list
+ok 4 - getMatches: changed card selector silently returns incomplete list
+  ---
+  duration_ms: 2.3098
+  type: 'test'
+  ...
+# Subtest: getMatches: LIVE with surrounding whitespace is not recognized
+ok 5 - getMatches: LIVE with surrounding whitespace is not recognized
+  ---
+  duration_ms: 1.9946
+  type: 'test'
+  ...
+# Subtest: getMatches: arbitrary HTML is accepted as a valid empty schedule
+ok 6 - getMatches: arbitrary HTML is accepted as a valid empty schedule
+  ---
+  duration_ms: 1.076
+  type: 'test'
+  ...
+# Subtest: getResults: scores, filters and terminal empty page
+ok 7 - getResults: scores, filters and terminal empty page
+  ---
+  duration_ms: 8.0463
+  type: 'test'
+  ...
+# Subtest: getResults: BO1 map shorthand is recognized
+ok 8 - getResults: BO1 map shorthand is recognized
+  ---
+  duration_ms: 21.5914
+  type: 'test'
+  ...
+# Subtest: getResults: Anubis shorthand falls through to default despite enum support
+ok 9 - getResults: Anubis shorthand falls through to default despite enum support
+  ---
+  duration_ms: 31.1267
+  type: 'test'
+  ...
+# Subtest: getResults: changed score delimiter produces NaN and undefined
+ok 10 - getResults: changed score delimiter produces NaN and undefined
+  ---
+  duration_ms: 16.0633
+  type: 'test'
+  ...
+# Subtest: getResults: has no built-in page cap; offline budget prevents unbounded pagination
+ok 11 - getResults: has no built-in page cap; offline budget prevents unbounded pagination
+  ---
+  duration_ms: 47.5967
+  type: 'test'
+  ...
+# Subtest: getMatch: separate match/stats/map IDs, BO3, map rounds and winner
+ok 12 - getMatch: separate match/stats/map IDs, BO3, map rounds and winner
+  ---
+  duration_ms: 7.5017
+  type: 'test'
+  ...
+# Subtest: getMatch: explicit LIVE -> Live
+ok 13 - getMatch: explicit LIVE -> Live
+  ---
+  duration_ms: 3.3243
+  type: 'test'
+  ...
+# Subtest: getMatch: explicit Match postponed -> Postponed
+ok 14 - getMatch: explicit Match postponed -> Postponed
+  ---
+  duration_ms: 3.6004
+  type: 'test'
+  ...
+# Subtest: getMatch: explicit Match deleted -> Deleted
+ok 15 - getMatch: explicit Match deleted -> Deleted
+  ---
+  duration_ms: 3.2384
+  type: 'test'
+  ...
+# Subtest: getMatch: explicit Match over -> Over
+ok 16 - getMatch: explicit Match over -> Over
+  ---
+  duration_ms: 4.185
+  type: 'test'
+  ...
+# Subtest: getMatch: unknown status falls back to Scheduled; no validation
+ok 17 - getMatch: unknown status falls back to Scheduled; no validation
+  ---
+  duration_ms: 2.5281
+  type: 'test'
+  ...
+# Subtest: getMatch: empty HTML throws on missing event href
+ok 18 - getMatch: empty HTML throws on missing event href
+  ---
+  duration_ms: 1.2291
+  type: 'test'
+  ...
+# Subtest: getMatch: unplayed blank map scores remain absent, not fictional 0:0
+ok 19 - getMatch: unplayed blank map scores remain absent, not fictional 0:0
+  ---
+  duration_ms: 4.1908
+  type: 'test'
+  ...
+# Subtest: getMatchStats: K/D/A, ADR and metadata; exactly two fixture loads
+ok 20 - getMatchStats: K/D/A, ADR and metadata; exactly two fixture loads
+  ---
+  duration_ms: 10.1734
+  type: 'test'
+  ...
+# Subtest: Rating label in title attribute is ignored and numeric value is assigned to rating1
+ok 21 - Rating label in title attribute is ignored and numeric value is assigned to rating1
+  ---
+  duration_ms: 6.1739
+  type: 'test'
+  ...
+# Subtest: Rating 1.0 in .ratingDesc text: numeric parsing breaks
+ok 22 - Rating 1.0 in .ratingDesc text: numeric parsing breaks
+  ---
+  duration_ms: 4.6479
+  type: 'test'
+  ...
+# Subtest: Rating 2.0 in .ratingDesc text: numeric parsing breaks
+ok 23 - Rating 2.0 in .ratingDesc text: numeric parsing breaks
+  ---
+  duration_ms: 3.6797
+  type: 'test'
+  ...
+# Subtest: Rating 2.1 in .ratingDesc text: numeric parsing breaks
+ok 24 - Rating 2.1 in .ratingDesc text: numeric parsing breaks
+  ---
+  duration_ms: 4.2143
+  type: 'test'
+  ...
+# Subtest: Rating 3.0 in .ratingDesc text: numeric parsing breaks
+ok 25 - Rating 3.0 in .ratingDesc text: numeric parsing breaks
+  ---
+  duration_ms: 3.602
+  type: 'test'
+  ...
+# Subtest: Rating 3.0 in title: numeric value survives but is mislabeled rating1
+ok 26 - Rating 3.0 in title: numeric value survives but is mislabeled rating1
+  ---
+  duration_ms: 4.2056
+  type: 'test'
+  ...
+# Subtest: missing ADR is undefined (not zero)
+ok 27 - missing ADR is undefined (not zero)
+  ---
+  duration_ms: 4.1429
+  type: 'test'
+  ...
+# Subtest: missing required kills contradicts declared number type at runtime
+ok 28 - missing required kills contradicts declared number type at runtime
+  ---
+  duration_ms: 4.0475
+  type: 'test'
+  ...
+# Subtest: changed stats table selector silently discards both teams
+ok 29 - changed stats table selector silently discards both teams
+  ---
+  duration_ms: 2.9266
+  type: 'test'
+  ...
+# Subtest: missing second stats table duplicates first team into both sides
+ok 30 - missing second stats table duplicates first team into both sides
+  ---
+  duration_ms: 5.3569
+  type: 'test'
+  ...
+# Subtest: missing performance highlights still permits base stats
+ok 31 - missing performance highlights still permits base stats
+  ---
+  duration_ms: 1.8245
+  type: 'test'
+  ...
+# Subtest: changed performance graph throws and loses otherwise valid base stats
+ok 32 - changed performance graph throws and loses otherwise valid base stats
+  ---
+  duration_ms: 3.8543
+  type: 'test'
+  ...
+# Subtest: missing event href throws instead of partial stats
+ok 33 - missing event href throws instead of partial stats
+  ---
+  duration_ms: 2.6952
+  type: 'test'
+  ...
+# Subtest: getMatches: known access-denied HTML is rejected locally
+ok 34 - getMatches: known access-denied HTML is rejected locally
+  ---
+  duration_ms: 0.4122
+  type: 'test'
+  ...
+# Subtest: getResults: known access-denied HTML is rejected locally
+ok 35 - getResults: known access-denied HTML is rejected locally
+  ---
+  duration_ms: 4.7501
+  type: 'test'
+  ...
+# Subtest: getMatch: known access-denied HTML is rejected locally
+ok 36 - getMatch: known access-denied HTML is rejected locally
+  ---
+  duration_ms: 0.4965
+  type: 'test'
+  ...
+# Subtest: getMatchStats: known access-denied HTML is rejected locally
+ok 37 - getMatchStats: known access-denied HTML is rejected locally
+  ---
+  duration_ms: 0.3931
+  type: 'test'
+  ...
+# Subtest: getMatches: unknown challenge HTML can be mistaken for empty schedule
+ok 38 - getMatches: unknown challenge HTML can be mistaken for empty schedule
+  ---
+  duration_ms: 1.061
+  type: 'test'
+  ...
+# Subtest: unmapped fixtures fail closed without network fallback
+ok 39 - unmapped fixtures fail closed without network fallback
+  ---
+  duration_ms: 0.3634
+  type: 'test'
+  ...
+1..39
+# tests 39
+# suites 0
+# pass 39
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1083.5941

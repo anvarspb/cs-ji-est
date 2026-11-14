@@ -1,0 +1,2 @@
+import type { Team } from '@/lib/models';
+export function TeamLogo({team,large=false}:{team:Team;large?:boolean}) {const remote=/^https:\/\/api\.citoapi\.com\/api\/v1\/public\/images\//.test(team.logo);return <span role="img" aria-label={`Эмблема ${team.name}`} className={`team-logo logo-${team.id} ${large?'large':''}`} style={{color:team.color}}>{remote?<img src={team.logo} alt="" loading="lazy" referrerPolicy="no-referrer"/>:team.logo||team.shortName.slice(0,3)}</span>}

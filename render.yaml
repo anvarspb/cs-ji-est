@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: cs-pulse
+    runtime: node
+    plan: free
+    branch: main
+    buildCommand: npx --yes pnpm@11.25.0 install --frozen-lockfile && npx --yes pnpm@11.25.0 run build
+    startCommand: npm run start -- --hostname 0.0.0.0 --port $PORT
+    envVars:
+      - key: NODE_VERSION
+        value: 24.22.1
+      - key: CITO_SNAPSHOT_URL
+        sync: false

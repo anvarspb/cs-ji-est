@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-11-14T11:03:57.683Z",
+  "node": "v24.22.1",
+  "typescript": "5.9.3",
+  "hltv": "3.5.0",
+  "hltvDependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "got-scraping": "3.2.15",
+    "socket.io-client": "2.4.0"
+  },
+  "lockSha256": "4935a0629c80065a25deca5dd86fefd8aa9242829ad10def0fd3868749d30f69",
+  "fixtureProvenance": "Synthetic, authored locally; no captured HLTV pages",
+  "network": "All parser loads use local fixtures; transport guards installed before package import; no HLTV access",
+  "checks": [
+    {
+      "name": "offline-parser-tests",
+      "exitCode": 0,
+      "expectedExitCode": 0,
+      "pass": true
+    },
+    {
+      "name": "typescript-strict",
+      "exitCode": 2,
+      "expectedExitCode": 2,
+      "pass": true
+    },
+    {
+      "name": "typescript-skip-lib-check",
+      "exitCode": 0,
+      "expectedExitCode": 0,
+      "pass": true
+    },
+    {
+      "name": "typescript-bundler",
+      "exitCode": 0,
+      "expectedExitCode": 0,
+      "pass": true
+    },
+    {
+      "name": "typescript-nodenext-default",
+      "exitCode": 2,
+      "expectedExitCode": 2,
+      "pass": true
+    },
+    {
+      "name": "main-site-unchanged",
+      "pass": true,
+      "changed": []
+    }
+  ]
+}

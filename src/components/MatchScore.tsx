@@ -1,0 +1,1 @@
+export function MatchScore({score}:{score:[number,number]}){return <span className="match-score"><b className={score[0]>score[1]?'winner':''}>{score[0]}</b><span>:</span><b className={score[1]>score[0]?'winner':''}>{score[1]}</b></span>}

@@ -1,0 +1,12 @@
+{
+  "name": "cs-pulse-hltv-offline-audit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "audit:offline": "node scripts/run-audit.mjs",
+    "test": "node --test test/*.test.mjs",
+    "typecheck": "tsc --project tsconfig.json"
+  },
+  "dependencies": { "hltv": "3.5.0" },
+  "devDependencies": { "typescript": "5.9.3", "@types/node": "24.10.1" }
+}

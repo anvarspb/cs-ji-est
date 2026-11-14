@@ -1,0 +1,15 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {groupMatches,localDay,dayHeading} from '../src/components/match-groups.ts';
+const now=Date.parse('2026-11-14T12:00:00Z');
+const match=(id,startsAt,status='upcoming',finishedAt)=>({id,startsAt,status,...(finishedAt?{finishedAt}:{})});
+test('schedule includes multiple days and skips empty today',()=>{const g=groupMatches([match('b','2026-11-17T14:00:00Z'),match('a','2026-11-15T14:00:00Z')],now,'schedule','Europe/Moscow');assert.deepEqual(g.map(g=>g.label),['Завтра','17 ноября']);});
+test('matches in a day sort by start time and completed/cancelled stay out',()=>{const g=groupMatches([match('b','2026-11-15T18:00:00Z'),match('a','2026-11-15T14:00:00Z'),match('c','2026-11-15T10:00:00Z','finished'),match('d','2026-11-15T11:00:00Z','cancelled')],now,'schedule','UTC');assert.deepEqual(g[0].matches.map(m=>m.id),['a','b']);});
+test('unconfirmed matches remain after start and across midnight',()=>{const g=groupMatches([match('active','2026-11-14T20:00:00Z')],Date.parse('2026-11-15T01:00:00Z'),'schedule','UTC');assert.equal(g.length,1);assert.equal(g[0].matches[0].id,'active');assert.equal(g[0].label,'14 ноября');});
+test('same instant belongs to different local dates',()=>{assert.equal(localDay('2026-11-14T22:30:00Z','Europe/Moscow'),'2026-11-15');assert.equal(localDay('2026-11-14T22:30:00Z','America/New_York'),'2026-11-14');});
+test('tomorrow is a calendar day across DST and year boundaries',()=>{assert.equal(dayHeading('2026-03-09',Date.parse('2026-03-08T05:30:00Z'),'America/New_York'),'Завтра');assert.equal(dayHeading('2027-01-01',Date.parse('2026-12-31T22:00:00Z'),'UTC'),'Завтра');});
+test('today heading changes automatically after local midnight',()=>{const ms=Date.parse('2026-11-14T20:59:59Z');assert.equal(dayHeading('2026-11-15',ms,'Europe/Moscow'),'Завтра');assert.equal(dayHeading('2026-11-15',ms+1000,'Europe/Moscow'),'Сегодня');});
+test('tournament pending dates ascend then result-only dates descend',()=>{const g=groupMatches([match('r1','2026-11-12T10:00:00Z','finished'),match('n2','2026-11-17T10:00:00Z'),match('r2','2026-11-13T10:00:00Z','finished'),match('n1','2026-11-15T10:00:00Z')],now,'tournament','UTC');assert.deepEqual(g.map(x=>x.key),['2026-11-15','2026-11-17','2026-11-13','2026-11-12']);});
+test('a shared date gets one heading with pending before finished',()=>{const g=groupMatches([match('result','2026-11-14T09:00:00Z','finished','2026-11-14T11:00:00Z'),match('pending','2026-11-14T15:00:00Z')],now,'tournament','UTC');assert.equal(g.length,1);assert.deepEqual(g[0].matches.map(m=>m.id),['pending','result']);});
+test('finished grouping uses completion date in user time zone',()=>{const g=groupMatches([match('r','2026-11-14T20:00:00Z','finished','2026-11-14T22:00:00Z')],now,'tournament','Europe/Moscow');assert.equal(g[0].key,'2026-11-15');});
+test('no invented empty groups',()=>assert.deepEqual(groupMatches([],now,'schedule','UTC'),[]));

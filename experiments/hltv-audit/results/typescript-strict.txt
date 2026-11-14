@@ -1,0 +1,2 @@
+node_modules/hltv/lib/scraper.d.ts(2,43): error TS2724: '"C:/Users/Admin/Documents/\u043F\u0440\u043E\u0435\u043A\u0442\u044B/CS JI EST/experiments/hltv-audit/node_modules/cheerio/lib/index"' has no exported member named 'Root'. Did you mean 'root'?
+node_modules/hltv/lib/scraper.d.ts(30,50): error TS2724: '"C:/Users/Admin/Documents/\u043F\u0440\u043E\u0435\u043A\u0442\u044B/CS JI EST/experiments/hltv-audit/node_modules/cheerio/lib/index"' has no exported member named 'Root'. Did you mean 'root'?

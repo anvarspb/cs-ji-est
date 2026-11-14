@@ -1,0 +1,9 @@
+node_modules/
+.pnpm-store/
+.sites-runtime/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+.cito/

@@ -1,0 +1,3 @@
+import {getSnapshot} from '@/lib/data';
+import {LocalTime} from './LocalTime';
+export async function DataNotice(){const data=await getSnapshot();const warnings=[...new Set(data.warnings.map(w=>w.includes('ограничивает')||w.includes('100')?'Часть результатов может отсутствовать.':w.includes('суток')?'Данные устарели.':w.includes('лимит')?'Обновление приостановлено.':w.includes('Ключ')||w.includes('не загружены')?'Данные недоступны.':'Ошибка обновления. Сохранён предыдущий снимок.'))];return <><span>Cito API{data.updatedAt&&<> · <LocalTime value={data.updatedAt} date/></>}</span>{warnings.length>0&&<span role="status" className="data-warning">{warnings.join(' ')}</span>}</>}

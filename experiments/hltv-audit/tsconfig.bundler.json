@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "module": "ESNext", "moduleResolution": "Bundler", "skipLibCheck": true },
+  "include": ["types/compatibility.mts", "types/default-import.mts"]
+}

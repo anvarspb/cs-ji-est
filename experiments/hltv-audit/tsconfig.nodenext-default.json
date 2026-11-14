@@ -1,0 +1,4 @@
+{
+  "extends": "./tsconfig.skip-lib-check.json",
+  "include": ["types/default-import.mts"]
+}
