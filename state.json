@@ -3097,6 +3097,11 @@
         "nextAt": 1794771683646,
         "done": true,
         "unavailableReason": null
+      },
+      "stats": {
+        "attempts": 1,
+        "nextAt": 1794771683646,
+        "done": false
       }
     }
   },
