@@ -22,7 +22,29 @@
       "format": "BO5",
       "status": "finished",
       "statusSource": "provider-confirmed",
-      "maps": [],
+      "maps": [
+        {
+          "id": "cs2-match-2400208-map-1",
+          "name": "Ancient",
+          "team1Score": 11,
+          "team2Score": 13,
+          "statsEligible": true
+        },
+        {
+          "id": "cs2-match-2400208-map-2",
+          "name": "Dust2",
+          "team1Score": 5,
+          "team2Score": 13,
+          "statsEligible": true
+        },
+        {
+          "id": "cs2-match-2400208-map-3",
+          "name": "Mirage",
+          "team1Score": 8,
+          "team2Score": 13,
+          "statsEligible": true
+        }
+      ],
       "players": [],
       "stage": "Матч турнира",
       "observedAt": "2026-11-15T17:41:23.646Z",
@@ -3073,17 +3095,18 @@
       "maps": {
         "attempts": 1,
         "nextAt": 1794771683646,
-        "done": false
+        "done": true,
+        "unavailableReason": null
       }
     }
   },
   "scheduleAt": "2026-11-15T10:45:43.003Z",
   "recentAt": "2026-11-15T17:41:23.646Z",
   "backoffUntil": 0,
-  "providerUsed": 24,
+  "providerUsed": 25,
   "providerReset": 1797265087890,
   "warnings": [
     "Источник ограничивает список результатов: часть матчей за последние 7 дней может отсутствовать."
   ],
-  "updatedAt": "2026-11-15T17:41:26.790Z"
+  "updatedAt": "2026-11-15T17:41:33.958Z"
 }
