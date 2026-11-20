@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T21:28:16.457Z",
+  "updatedAt": "2026-11-20T11:28:27.936Z",
   "matches": [
     {
       "id": "cs2-match-2400208",
@@ -1427,8 +1427,8 @@
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
-      "stage": "Матч турнира",
-      "observedAt": "2026-11-19T21:28:12.882Z"
+      "stage": "Swiss round 1",
+      "observedAt": "2026-11-20T11:28:23.943Z"
     },
     {
       "id": "cs2-match-2400495",
@@ -1453,8 +1453,8 @@
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
-      "stage": "Матч турнира",
-      "observedAt": "2026-11-19T21:28:12.882Z"
+      "stage": "Swiss round 1",
+      "observedAt": "2026-11-20T11:28:23.943Z"
     },
     {
       "id": "cs2-match-2400496",
@@ -1479,8 +1479,8 @@
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
-      "stage": "Матч турнира",
-      "observedAt": "2026-11-19T21:28:12.882Z"
+      "stage": "Swiss round 1",
+      "observedAt": "2026-11-20T11:28:23.943Z"
     },
     {
       "id": "cs2-match-2400497",
@@ -1505,8 +1505,8 @@
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
-      "stage": "Матч турнира",
-      "observedAt": "2026-11-19T21:28:12.882Z"
+      "stage": "Swiss round 1",
+      "observedAt": "2026-11-20T11:28:23.943Z"
     },
     {
       "id": "cs2-match-2400498",
@@ -1531,8 +1531,8 @@
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
-      "stage": "Матч турнира",
-      "observedAt": "2026-11-19T21:28:12.882Z"
+      "stage": "Swiss round 1",
+      "observedAt": "2026-11-20T11:28:23.943Z"
     },
     {
       "id": "cs2-match-2400499",
@@ -1557,8 +1557,8 @@
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
-      "stage": "Матч турнира",
-      "observedAt": "2026-11-19T21:28:12.882Z"
+      "stage": "Swiss round 1",
+      "observedAt": "2026-11-20T11:28:23.943Z"
     },
     {
       "id": "cs2-match-2400500",
@@ -1583,8 +1583,8 @@
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
-      "stage": "Матч турнира",
-      "observedAt": "2026-11-19T21:28:12.882Z"
+      "stage": "Swiss round 1",
+      "observedAt": "2026-11-20T11:28:23.943Z"
     },
     {
       "id": "cs2-match-2400501",
@@ -1609,8 +1609,8 @@
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
-      "stage": "Матч турнира",
-      "observedAt": "2026-11-19T21:28:12.882Z"
+      "stage": "Swiss round 1",
+      "observedAt": "2026-11-20T11:28:23.943Z"
     }
   ],
   "tournaments": [
