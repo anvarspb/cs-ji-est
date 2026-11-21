@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T11:28:27.936Z",
+  "updatedAt": "2026-11-21T01:28:07.780Z",
   "matches": [
     {
       "id": "cs2-match-2400208",
@@ -1014,7 +1014,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-20T11:28:23.943Z"
+      "observedAt": "2026-11-21T01:28:03.698Z"
     },
     {
       "id": "cs2-match-2400495",
@@ -1040,7 +1040,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-20T11:28:23.943Z"
+      "observedAt": "2026-11-21T01:28:03.698Z"
     },
     {
       "id": "cs2-match-2400496",
@@ -1066,7 +1066,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-20T11:28:23.943Z"
+      "observedAt": "2026-11-21T01:28:03.698Z"
     },
     {
       "id": "cs2-match-2400497",
@@ -1092,7 +1092,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-20T11:28:23.943Z"
+      "observedAt": "2026-11-21T01:28:03.698Z"
     },
     {
       "id": "cs2-match-2400498",
@@ -1108,7 +1108,7 @@
         "name": "BC.Game",
         "shortName": "BCGAME",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/480290e56afe32090adbeda43f59a60b.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e67bda6e46ef488fecc9e037510f30d3.avif"
       },
       "tournamentId": "cs2-event-9303",
       "startsAt": "2026-11-24T06:00:00.000Z",
@@ -1118,7 +1118,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-20T11:28:23.943Z"
+      "observedAt": "2026-11-21T01:28:03.698Z"
     },
     {
       "id": "cs2-match-2400499",
@@ -1144,7 +1144,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-20T11:28:23.943Z"
+      "observedAt": "2026-11-21T01:28:03.698Z"
     },
     {
       "id": "cs2-match-2400500",
@@ -1170,7 +1170,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-20T11:28:23.943Z"
+      "observedAt": "2026-11-21T01:28:03.698Z"
     },
     {
       "id": "cs2-match-2400501",
@@ -1196,7 +1196,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-20T11:28:23.943Z"
+      "observedAt": "2026-11-21T01:28:03.698Z"
     }
   ],
   "tournaments": [
