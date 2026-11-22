@@ -25,7 +25,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-21T17:26:42.494Z"
+      "observedAt": "2026-11-22T11:13:06.805Z"
     },
     {
       "id": "cs2-match-2400495",
@@ -51,7 +51,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-21T17:26:42.494Z"
+      "observedAt": "2026-11-22T11:13:06.805Z"
     },
     {
       "id": "cs2-match-2400496",
@@ -77,7 +77,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-21T17:26:42.494Z"
+      "observedAt": "2026-11-22T11:13:06.805Z"
     },
     {
       "id": "cs2-match-2400497",
@@ -103,7 +103,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-21T17:26:42.494Z"
+      "observedAt": "2026-11-22T11:13:06.805Z"
     },
     {
       "id": "cs2-match-2400498",
@@ -129,7 +129,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-21T17:26:42.494Z"
+      "observedAt": "2026-11-22T11:13:06.805Z"
     },
     {
       "id": "cs2-match-2400499",
@@ -155,7 +155,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-21T17:26:42.494Z"
+      "observedAt": "2026-11-22T11:13:06.805Z"
     },
     {
       "id": "cs2-match-2400500",
@@ -181,7 +181,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-21T17:26:42.494Z"
+      "observedAt": "2026-11-22T11:13:06.805Z"
     },
     {
       "id": "cs2-match-2400501",
@@ -207,7 +207,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-21T17:26:42.494Z"
+      "observedAt": "2026-11-22T11:13:06.805Z"
     }
   ],
   "tournaments": [
@@ -381,10 +381,10 @@
   "scheduleAt": "2026-11-22T11:13:06.805Z",
   "recentAt": "2026-11-15T17:41:23.646Z",
   "backoffUntil": 0,
-  "providerUsed": 37,
+  "providerUsed": 38,
   "providerReset": 1797265087890,
   "warnings": [
     "Источник ограничивает список результатов: часть матчей за последние 7 дней может отсутствовать."
   ],
-  "updatedAt": "2026-11-21T17:26:49.087Z"
+  "updatedAt": "2026-11-22T11:13:11.354Z"
 }
