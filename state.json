@@ -904,6 +904,11 @@
         "nextAt": 1795542519895,
         "done": true,
         "unavailableReason": null
+      },
+      "stats": {
+        "attempts": 1,
+        "nextAt": 1795542519895,
+        "done": false
       }
     }
   },
