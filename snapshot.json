@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T15:48:58.228Z",
+  "updatedAt": "2026-11-24T15:49:05.855Z",
   "matches": [
     {
       "id": "cs2-match-2400494",
@@ -493,7 +493,128 @@
           "statsEligible": true
         }
       ],
-      "players": [],
+      "players": [
+        {
+          "playerId": "cs2-player-9032",
+          "player": "Magisk",
+          "teamId": "cs2-team-12878",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 3,
+          "deaths": 10,
+          "assists": 0,
+          "adr": 41.94,
+          "rating": 0.61,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-20903",
+          "player": "Senzu",
+          "teamId": "cs2-team-12878",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 3,
+          "deaths": 11,
+          "assists": 0,
+          "adr": 30,
+          "rating": 0.52,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-18545",
+          "player": "asap",
+          "teamId": "cs2-team-12878",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 5,
+          "deaths": 11,
+          "assists": 0,
+          "adr": 62.75,
+          "rating": 0.72,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-21001",
+          "player": "mzinho",
+          "teamId": "cs2-team-12878",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 2,
+          "deaths": 9,
+          "assists": 0,
+          "adr": 34.75,
+          "rating": 0.64,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-7998",
+          "player": "s1mple",
+          "teamId": "cs2-team-12878",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 5,
+          "deaths": 13,
+          "assists": 1,
+          "adr": 78.5,
+          "rating": 0.65,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-22866",
+          "player": "JBOEN",
+          "teamId": "cs2-team-6667",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 7,
+          "deaths": 2,
+          "assists": 7,
+          "adr": 92,
+          "rating": 1.51,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-21972",
+          "player": "Neityu",
+          "teamId": "cs2-team-6667",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 8,
+          "deaths": 5,
+          "assists": 1,
+          "adr": 52.06,
+          "rating": 1.13,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-10394",
+          "player": "Twistzz",
+          "teamId": "cs2-team-6667",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 18,
+          "deaths": 5,
+          "assists": 3,
+          "adr": 121.06,
+          "rating": 1.68,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-9960",
+          "player": "frozen",
+          "teamId": "cs2-team-6667",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 11,
+          "deaths": 2,
+          "assists": 6,
+          "adr": 98.63,
+          "rating": 1.63,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-22383",
+          "player": "jcobbb",
+          "teamId": "cs2-team-6667",
+          "mapId": "cs2-match-2400564-map-1",
+          "kills": 10,
+          "deaths": 4,
+          "assists": 5,
+          "adr": 104.38,
+          "rating": 1.49,
+          "ratingVersion": "cito_rating_1"
+        }
+      ],
       "stage": "Swiss round 2",
       "observedAt": "2026-11-24T15:48:39.895Z"
     },
