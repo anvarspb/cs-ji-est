@@ -885,7 +885,15 @@
       "kind": "results"
     }
   ],
-  "jobs": {},
+  "jobs": {
+    "cs2-match-2400564": {
+      "maps": {
+        "attempts": 1,
+        "nextAt": 1795542519895,
+        "done": false
+      }
+    }
+  },
   "scheduleAt": "2026-11-24T15:48:39.895Z",
   "recentAt": "2026-11-24T15:48:39.895Z",
   "backoffUntil": 0,
