@@ -208,6 +208,214 @@
       "players": [],
       "stage": "Swiss round 1",
       "observedAt": "2026-11-23T00:15:40.024Z"
+    },
+    {
+      "id": "cs2-match-2400565",
+      "team1": {
+        "id": "cs2-team-7175",
+        "name": "HEROIC",
+        "shortName": "HEROIC",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e52f99078fa1bcfb51f557a572c8618a.webp"
+      },
+      "team2": {
+        "id": "cs2-team-12376",
+        "name": "M80",
+        "shortName": "M80",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/62703f3e28530c98e06e510a5c9896d4.webp"
+      },
+      "tournamentId": "cs2-event-9303",
+      "startsAt": "2026-11-25T06:00:00.000Z",
+      "format": "BO1",
+      "status": "upcoming",
+      "statusSource": "provider-confirmed",
+      "maps": [],
+      "players": [],
+      "stage": "Swiss round 3",
+      "observedAt": "2026-11-24T15:48:39.895Z"
+    },
+    {
+      "id": "cs2-match-2400566",
+      "team1": {
+        "id": "cs2-team-11251",
+        "name": "Eternal Fire",
+        "shortName": "EF",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/800a57a1e59a9ca428faf6b6a890ced0.webp"
+      },
+      "team2": {
+        "id": "cs2-team-8474",
+        "name": "100 Thieves",
+        "shortName": "1T",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/087446702b34cb2862834df06bba351f.webp"
+      },
+      "tournamentId": "cs2-event-9303",
+      "startsAt": "2026-11-25T06:00:00.000Z",
+      "format": "BO1",
+      "status": "upcoming",
+      "statusSource": "provider-confirmed",
+      "maps": [],
+      "players": [],
+      "stage": "Swiss round 3",
+      "observedAt": "2026-11-24T15:48:39.895Z"
+    },
+    {
+      "id": "cs2-match-2400567",
+      "team1": {
+        "id": "cs2-team-12467",
+        "name": "PARIVISION",
+        "shortName": "PARIVISI",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ac4c24d8fa96deb6ce8fc6a38c1245e5.webp"
+      },
+      "team2": {
+        "id": "cs2-team-6667",
+        "name": "FaZe",
+        "shortName": "FAZE",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2653bc97908a106127134d6d94d50157.webp"
+      },
+      "tournamentId": "cs2-event-9303",
+      "startsAt": "2026-11-25T07:00:00.000Z",
+      "format": "BO1",
+      "status": "upcoming",
+      "statusSource": "provider-confirmed",
+      "maps": [],
+      "players": [],
+      "stage": "Swiss round 3",
+      "observedAt": "2026-11-24T15:48:39.895Z"
+    },
+    {
+      "id": "cs2-match-2400568",
+      "team1": {
+        "id": "cs2-team-12257",
+        "name": "Wildcard",
+        "shortName": "WILDCARD",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/12023fd99f5de24c42437a3a4d4a6b8b.webp"
+      },
+      "team2": {
+        "id": "cs2-team-8840",
+        "name": "Lynn Vision",
+        "shortName": "LV",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/d402a884cf0a785e81aff54f8d15c403.webp"
+      },
+      "tournamentId": "cs2-event-9303",
+      "startsAt": "2026-11-25T07:00:00.000Z",
+      "format": "BO1",
+      "status": "upcoming",
+      "statusSource": "provider-confirmed",
+      "maps": [],
+      "players": [],
+      "stage": "Swiss round 3",
+      "observedAt": "2026-11-24T15:48:39.895Z"
+    },
+    {
+      "id": "cs2-match-2400569",
+      "team1": {
+        "id": "cs2-team-9455",
+        "name": "Imperial",
+        "shortName": "IMPERIAL",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/372c2b7b27fb014cec67ab7edcc79248.webp"
+      },
+      "team2": {
+        "id": "cs2-team-12774",
+        "name": "FlyQuest",
+        "shortName": "FLYQUEST",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8c4b645e4ba882c1c6e0759120597464.webp"
+      },
+      "tournamentId": "cs2-event-9303",
+      "startsAt": "2026-11-25T08:00:00.000Z",
+      "format": "BO3",
+      "status": "upcoming",
+      "statusSource": "provider-confirmed",
+      "maps": [],
+      "players": [],
+      "stage": "Swiss round 3",
+      "observedAt": "2026-11-24T15:48:39.895Z"
+    },
+    {
+      "id": "cs2-match-2400570",
+      "team1": {
+        "id": "cs2-team-9996",
+        "name": "9z",
+        "shortName": "9Z",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/21fb40fe1479cdfdcb47cf590ff9bc38.webp"
+      },
+      "team2": {
+        "id": "cs2-team-13926",
+        "name": "DENDELE",
+        "shortName": "DENDELE",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bdd130b51327ab22bcd342bca67e4608.webp"
+      },
+      "tournamentId": "cs2-event-9303",
+      "startsAt": "2026-11-25T08:00:00.000Z",
+      "format": "BO3",
+      "status": "upcoming",
+      "statusSource": "provider-confirmed",
+      "maps": [],
+      "players": [],
+      "stage": "Swiss round 3",
+      "observedAt": "2026-11-24T15:48:39.895Z"
+    },
+    {
+      "id": "cs2-match-2400571",
+      "team1": {
+        "id": "cs2-team-4411",
+        "name": "Ninjas in Pyjamas",
+        "shortName": "NIP",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2d0556fe74ccca5f48c9cf2633edab0c.webp"
+      },
+      "team2": {
+        "id": "cs2-team-5973",
+        "name": "Liquid",
+        "shortName": "LIQUID",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fb6cfc41f51c973c934894481eafa229.svg"
+      },
+      "tournamentId": "cs2-event-9303",
+      "startsAt": "2026-11-25T10:30:00.000Z",
+      "format": "BO3",
+      "status": "upcoming",
+      "statusSource": "provider-confirmed",
+      "maps": [],
+      "players": [],
+      "stage": "Swiss round 3",
+      "observedAt": "2026-11-24T15:48:39.895Z"
+    },
+    {
+      "id": "cs2-match-2400572",
+      "team1": {
+        "id": "cs2-team-12878",
+        "name": "BC.Game",
+        "shortName": "BCGAME",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e67bda6e46ef488fecc9e037510f30d3.avif"
+      },
+      "team2": {
+        "id": "cs2-team-12646",
+        "name": "Chinggis Warriors",
+        "shortName": "CW",
+        "color": "#c5ff46",
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/07f8aa3ca5e4006d68956e71b1e9d57c.webp"
+      },
+      "tournamentId": "cs2-event-9303",
+      "startsAt": "2026-11-25T10:30:00.000Z",
+      "format": "BO3",
+      "status": "upcoming",
+      "statusSource": "provider-confirmed",
+      "maps": [],
+      "players": [],
+      "stage": "Swiss round 3",
+      "observedAt": "2026-11-24T15:48:39.895Z"
     }
   ],
   "tournaments": [
@@ -217,7 +425,7 @@
       "shortName": "PGL",
       "startsAt": "2026-11-24T00:00:00.000Z",
       "endsAt": "2026-11-27T23:59:59.000Z",
-      "status": "upcoming",
+      "status": "ongoing",
       "location": "Singapore",
       "prizePool": "Призовой фонд не указан",
       "tier": 1
@@ -389,10 +597,10 @@
   "scheduleAt": "2026-11-24T15:48:39.895Z",
   "recentAt": "2026-11-15T17:41:23.646Z",
   "backoffUntil": 0,
-  "providerUsed": 39,
+  "providerUsed": 40,
   "providerReset": 1797265087890,
   "warnings": [
     "Источник ограничивает список результатов: часть матчей за последние 7 дней может отсутствовать."
   ],
-  "updatedAt": "2026-11-23T00:15:43.146Z"
+  "updatedAt": "2026-11-24T15:48:43.706Z"
 }
