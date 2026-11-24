@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T15:48:51.170Z",
+  "updatedAt": "2026-11-24T15:48:58.228Z",
   "matches": [
     {
       "id": "cs2-match-2400494",
@@ -484,7 +484,15 @@
         1,
         0
       ],
-      "maps": [],
+      "maps": [
+        {
+          "id": "cs2-match-2400564-map-1",
+          "name": "Mirage",
+          "team1Score": 13,
+          "team2Score": 3,
+          "statsEligible": true
+        }
+      ],
       "players": [],
       "stage": "Swiss round 2",
       "observedAt": "2026-11-24T15:48:39.895Z"

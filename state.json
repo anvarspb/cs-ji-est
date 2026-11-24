@@ -483,7 +483,15 @@
         1,
         0
       ],
-      "maps": [],
+      "maps": [
+        {
+          "id": "cs2-match-2400564-map-1",
+          "name": "Mirage",
+          "team1Score": 13,
+          "team2Score": 3,
+          "statsEligible": true
+        }
+      ],
       "players": [],
       "stage": "Swiss round 2",
       "observedAt": "2026-11-24T15:48:39.895Z"
@@ -894,17 +902,18 @@
       "maps": {
         "attempts": 1,
         "nextAt": 1795542519895,
-        "done": false
+        "done": true,
+        "unavailableReason": null
       }
     }
   },
   "scheduleAt": "2026-11-24T15:48:39.895Z",
   "recentAt": "2026-11-24T15:48:39.895Z",
   "backoffUntil": 0,
-  "providerUsed": 41,
+  "providerUsed": 42,
   "providerReset": 1797265087890,
   "warnings": [
     "Источник ограничивает список результатов: часть матчей за последние 7 дней может отсутствовать."
   ],
-  "updatedAt": "2026-11-24T15:48:51.170Z"
+  "updatedAt": "2026-11-24T15:48:58.228Z"
 }
