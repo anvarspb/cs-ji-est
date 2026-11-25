@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T19:54:23.575Z",
+  "updatedAt": "2026-11-25T19:54:30.746Z",
   "matches": [
     {
       "id": "cs2-match-2400494",
@@ -713,7 +713,22 @@
       "format": "BO3",
       "status": "finished",
       "statusSource": "provider-confirmed",
-      "maps": [],
+      "maps": [
+        {
+          "id": "cs2-match-2400571-map-1",
+          "name": "Inferno",
+          "team1Score": 13,
+          "team2Score": 3,
+          "statsEligible": true
+        },
+        {
+          "id": "cs2-match-2400571-map-2",
+          "name": "Ancient",
+          "team1Score": 13,
+          "team2Score": 8,
+          "statsEligible": true
+        }
+      ],
       "players": [],
       "stage": "Swiss round 3",
       "observedAt": "2026-11-25T19:54:18.688Z",
