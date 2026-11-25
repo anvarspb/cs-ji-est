@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T09:47:57.522Z",
+  "updatedAt": "2026-11-25T09:48:05.688Z",
   "matches": [
     {
       "id": "cs2-match-2400494",
@@ -26,7 +26,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-24T15:48:39.895Z",
+      "observedAt": "2026-11-25T09:47:54.276Z",
       "finishedAt": "2026-11-24T04:47:56.386Z",
       "score": [
         0,
@@ -57,7 +57,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-24T15:48:39.895Z",
+      "observedAt": "2026-11-25T09:47:54.276Z",
       "finishedAt": "2026-11-24T05:06:49.661Z",
       "score": [
         0,
@@ -88,7 +88,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-24T15:48:39.895Z",
+      "observedAt": "2026-11-25T09:47:54.276Z",
       "finishedAt": "2026-11-24T05:55:47.113Z",
       "score": [
         1,
@@ -102,7 +102,7 @@
         "name": "100 Thieves",
         "shortName": "1T",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/087446702b34cb2862834df06bba351f.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46d3bfa423b2598593ea7ce36ad3149e.webp"
       },
       "team2": {
         "id": "cs2-team-12646",
@@ -119,7 +119,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-24T15:48:39.895Z",
+      "observedAt": "2026-11-25T09:47:54.276Z",
       "finishedAt": "2026-11-24T06:09:47.876Z",
       "score": [
         1,
@@ -150,7 +150,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-24T15:48:39.895Z",
+      "observedAt": "2026-11-25T09:47:54.276Z",
       "finishedAt": "2026-11-24T06:40:58.950Z",
       "score": [
         1,
@@ -181,7 +181,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-24T15:48:39.895Z",
+      "observedAt": "2026-11-25T09:47:54.276Z",
       "finishedAt": "2026-11-24T07:06:16.976Z",
       "score": [
         1,
@@ -195,14 +195,14 @@
         "name": "FaZe",
         "shortName": "FAZE",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2653bc97908a106127134d6d94d50157.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/70137982b63268d79a58f8ff89e7faab.webp"
       },
       "team2": {
         "id": "cs2-team-12257",
         "name": "Wildcard",
         "shortName": "WILDCARD",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/12023fd99f5de24c42437a3a4d4a6b8b.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ec12b16a1eadbf45ea78fbfa9cf3a77d.webp"
       },
       "tournamentId": "cs2-event-9303",
       "startsAt": "2026-11-24T07:48:27.000Z",
@@ -212,7 +212,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-24T15:48:39.895Z",
+      "observedAt": "2026-11-25T09:47:54.276Z",
       "finishedAt": "2026-11-24T07:48:47.666Z",
       "score": [
         0,
@@ -243,7 +243,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 1",
-      "observedAt": "2026-11-24T15:48:39.895Z",
+      "observedAt": "2026-11-25T09:47:54.276Z",
       "finishedAt": "2026-11-24T08:07:47.275Z",
       "score": [
         0,
@@ -269,12 +269,17 @@
       "tournamentId": "cs2-event-9303",
       "startsAt": "2026-11-25T06:00:00.000Z",
       "format": "BO1",
-      "status": "upcoming",
+      "status": "finished",
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
       "stage": "Swiss round 3",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z",
+      "finishedAt": "2026-11-25T07:00:08.101Z",
+      "score": [
+        0,
+        1
+      ]
     },
     {
       "id": "cs2-match-2400566",
@@ -290,17 +295,22 @@
         "name": "100 Thieves",
         "shortName": "1T",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/087446702b34cb2862834df06bba351f.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46d3bfa423b2598593ea7ce36ad3149e.webp"
       },
       "tournamentId": "cs2-event-9303",
       "startsAt": "2026-11-25T06:00:00.000Z",
       "format": "BO1",
-      "status": "upcoming",
+      "status": "finished",
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
       "stage": "Swiss round 3",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z",
+      "finishedAt": "2026-11-25T07:13:55.594Z",
+      "score": [
+        1,
+        0
+      ]
     },
     {
       "id": "cs2-match-2400567",
@@ -316,17 +326,22 @@
         "name": "FaZe",
         "shortName": "FAZE",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2653bc97908a106127134d6d94d50157.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/70137982b63268d79a58f8ff89e7faab.webp"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-25T07:00:00.000Z",
+      "startsAt": "2026-11-25T07:10:00.000Z",
       "format": "BO1",
-      "status": "upcoming",
+      "status": "finished",
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
       "stage": "Swiss round 3",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z",
+      "finishedAt": "2026-11-25T08:16:49.585Z",
+      "score": [
+        1,
+        0
+      ]
     },
     {
       "id": "cs2-match-2400568",
@@ -335,7 +350,7 @@
         "name": "Wildcard",
         "shortName": "WILDCARD",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/12023fd99f5de24c42437a3a4d4a6b8b.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ec12b16a1eadbf45ea78fbfa9cf3a77d.webp"
       },
       "team2": {
         "id": "cs2-team-8840",
@@ -347,12 +362,17 @@
       "tournamentId": "cs2-event-9303",
       "startsAt": "2026-11-25T07:00:00.000Z",
       "format": "BO1",
-      "status": "upcoming",
+      "status": "finished",
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
       "stage": "Swiss round 3",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z",
+      "finishedAt": "2026-11-25T07:52:02.853Z",
+      "score": [
+        0,
+        1
+      ]
     },
     {
       "id": "cs2-match-2400569",
@@ -397,14 +417,19 @@
         "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bdd130b51327ab22bcd342bca67e4608.webp"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-25T08:00:00.000Z",
+      "startsAt": "2026-11-25T08:05:00.000Z",
       "format": "BO3",
-      "status": "upcoming",
+      "status": "finished",
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
       "stage": "Swiss round 3",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z",
+      "finishedAt": "2026-11-25T08:43:36.029Z",
+      "score": [
+        2,
+        0
+      ]
     },
     {
       "id": "cs2-match-2400571",
@@ -465,7 +490,7 @@
         "name": "FaZe",
         "shortName": "FAZE",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2653bc97908a106127134d6d94d50157.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/70137982b63268d79a58f8ff89e7faab.webp"
       },
       "team2": {
         "id": "cs2-team-12878",
@@ -475,7 +500,7 @@
         "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e67bda6e46ef488fecc9e037510f30d3.avif"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-24T12:10:00.000Z",
+      "startsAt": "2026-11-24T12:45:45.000Z",
       "finishedAt": "2026-11-24T12:46:48.046Z",
       "format": "BO1",
       "status": "finished",
@@ -616,7 +641,7 @@
         }
       ],
       "stage": "Swiss round 2",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400563",
@@ -632,10 +657,10 @@
         "name": "Wildcard",
         "shortName": "WILDCARD",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/12023fd99f5de24c42437a3a4d4a6b8b.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ec12b16a1eadbf45ea78fbfa9cf3a77d.webp"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-24T11:55:00.000Z",
+      "startsAt": "2026-11-24T12:36:32.000Z",
       "finishedAt": "2026-11-24T12:43:43.276Z",
       "format": "BO1",
       "status": "finished",
@@ -776,7 +801,7 @@
         }
       ],
       "stage": "Swiss round 2",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400561",
@@ -795,7 +820,7 @@
         "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8c4b645e4ba882c1c6e0759120597464.webp"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-24T11:00:00.000Z",
+      "startsAt": "2026-11-24T11:57:55.000Z",
       "finishedAt": "2026-11-24T11:59:48.078Z",
       "format": "BO1",
       "status": "finished",
@@ -807,7 +832,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 2",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400562",
@@ -826,7 +851,7 @@
         "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bdd130b51327ab22bcd342bca67e4608.webp"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-24T10:45:00.000Z",
+      "startsAt": "2026-11-24T11:36:52.000Z",
       "finishedAt": "2026-11-24T11:43:49.754Z",
       "format": "BO1",
       "status": "finished",
@@ -838,7 +863,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 2",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400559",
@@ -847,7 +872,7 @@
         "name": "100 Thieves",
         "shortName": "1T",
         "color": "#c5ff46",
-        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/087446702b34cb2862834df06bba351f.webp"
+        "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46d3bfa423b2598593ea7ce36ad3149e.webp"
       },
       "team2": {
         "id": "cs2-team-9455",
@@ -857,7 +882,7 @@
         "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/372c2b7b27fb014cec67ab7edcc79248.webp"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-24T09:50:00.000Z",
+      "startsAt": "2026-11-24T10:50:12.000Z",
       "finishedAt": "2026-11-24T10:51:03.263Z",
       "format": "BO1",
       "status": "finished",
@@ -869,7 +894,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 2",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400560",
@@ -888,7 +913,7 @@
         "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/62703f3e28530c98e06e510a5c9896d4.webp"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-24T09:40:00.000Z",
+      "startsAt": "2026-11-24T10:30:30.000Z",
       "finishedAt": "2026-11-24T10:31:49.326Z",
       "format": "BO1",
       "status": "finished",
@@ -900,7 +925,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 2",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400557",
@@ -931,7 +956,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 2",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400558",
@@ -962,7 +987,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 2",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     }
   ],
   "tournaments": [
@@ -973,7 +998,7 @@
       "startsAt": "2026-11-24T00:00:00.000Z",
       "endsAt": "2026-11-27T23:59:59.000Z",
       "status": "ongoing",
-      "location": "Singapore",
+      "location": "Место не указано",
       "prizePool": "Призовой фонд не указан",
       "tier": 1
     }
