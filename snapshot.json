@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T00:39:22.669Z",
+  "updatedAt": "2026-11-25T09:47:57.522Z",
   "matches": [
     {
       "id": "cs2-match-2400494",
@@ -423,14 +423,14 @@
         "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fb6cfc41f51c973c934894481eafa229.svg"
       },
       "tournamentId": "cs2-event-9303",
-      "startsAt": "2026-11-25T10:30:00.000Z",
+      "startsAt": "2026-11-25T10:45:00.000Z",
       "format": "BO3",
       "status": "upcoming",
       "statusSource": "provider-confirmed",
       "maps": [],
       "players": [],
       "stage": "Swiss round 3",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400572",
@@ -456,7 +456,7 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 3",
-      "observedAt": "2026-11-24T15:48:39.895Z"
+      "observedAt": "2026-11-25T09:47:54.276Z"
     },
     {
       "id": "cs2-match-2400564",
@@ -973,7 +973,7 @@
       "startsAt": "2026-11-24T00:00:00.000Z",
       "endsAt": "2026-11-27T23:59:59.000Z",
       "status": "ongoing",
-      "location": "Место не указано",
+      "location": "Singapore",
       "prizePool": "Призовой фонд не указан",
       "tier": 1
     }
