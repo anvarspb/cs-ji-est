@@ -728,7 +728,248 @@
           "statsEligible": true
         }
       ],
-      "players": [],
+      "players": [
+        {
+          "playerId": "cs2-player-8738",
+          "player": "EliGE",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 5,
+          "deaths": 8,
+          "assists": 2,
+          "adr": null,
+          "rating": 0.96,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-11630",
+          "player": "JT",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 2,
+          "deaths": 10,
+          "assists": 3,
+          "adr": null,
+          "rating": 0.67,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-24203",
+          "player": "Jorko",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 6,
+          "deaths": 10,
+          "assists": 1,
+          "adr": null,
+          "rating": 0.81,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-8520",
+          "player": "NAF",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 5,
+          "deaths": 8,
+          "assists": 1,
+          "adr": null,
+          "rating": 0.94,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-11617",
+          "player": "malbsMd",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 2,
+          "deaths": 8,
+          "assists": 0,
+          "adr": null,
+          "rating": 0.77,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-19899",
+          "player": "Krimbo",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 9,
+          "deaths": 2,
+          "assists": 6,
+          "adr": null,
+          "rating": 1.75,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-20878",
+          "player": "adamb",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 16,
+          "deaths": 6,
+          "assists": 3,
+          "adr": 104.4,
+          "rating": 1.53,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-14148",
+          "player": "sjuush",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 10,
+          "deaths": 5,
+          "assists": 2,
+          "adr": null,
+          "rating": 1.44,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-10994",
+          "player": "stavn",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 7,
+          "deaths": 5,
+          "assists": 4,
+          "adr": null,
+          "rating": 1.35,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-23372",
+          "player": "xKacpersky",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-1",
+          "kills": 2,
+          "deaths": 2,
+          "assists": 0,
+          "adr": null,
+          "rating": 1.29,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-8738",
+          "player": "EliGE",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 8,
+          "deaths": 8,
+          "assists": 2,
+          "adr": null,
+          "rating": 1.16,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-11630",
+          "player": "JT",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 5,
+          "deaths": 9,
+          "assists": 4,
+          "adr": null,
+          "rating": 1.03,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-24203",
+          "player": "Jorko",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 3,
+          "deaths": 7,
+          "assists": 1,
+          "adr": null,
+          "rating": 1.03,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-8520",
+          "player": "NAF",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 12,
+          "deaths": 6,
+          "assists": 4,
+          "adr": null,
+          "rating": 1.47,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-11617",
+          "player": "malbsMd",
+          "teamId": "cs2-team-5973",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 10,
+          "deaths": 10,
+          "assists": 4,
+          "adr": null,
+          "rating": 1.14,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-19899",
+          "player": "Krimbo",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 8,
+          "deaths": 9,
+          "assists": 4,
+          "adr": null,
+          "rating": 1.13,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-20878",
+          "player": "adamb",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 5,
+          "deaths": 6,
+          "assists": 2,
+          "adr": null,
+          "rating": 1.19,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-14148",
+          "player": "sjuush",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 7,
+          "deaths": 6,
+          "assists": 1,
+          "adr": null,
+          "rating": 1.24,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-10994",
+          "player": "stavn",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 13,
+          "deaths": 10,
+          "assists": 0,
+          "adr": null,
+          "rating": 1.17,
+          "ratingVersion": "cito_rating_1"
+        },
+        {
+          "playerId": "cs2-player-23372",
+          "player": "xKacpersky",
+          "teamId": "cs2-team-4411",
+          "mapId": "cs2-match-2400571-map-2",
+          "kills": 7,
+          "deaths": 8,
+          "assists": 4,
+          "adr": null,
+          "rating": 1.16,
+          "ratingVersion": "cito_rating_1"
+        }
+      ],
       "stage": "Swiss round 3",
       "observedAt": "2026-11-25T19:54:18.688Z",
       "finishedAt": "2026-11-25T12:39:47.116Z",
@@ -1551,17 +1792,18 @@
       "stats": {
         "attempts": 1,
         "nextAt": 1795643658688,
-        "done": false
+        "done": false,
+        "unavailableReason": null
       }
     }
   },
   "scheduleAt": "2026-11-25T09:47:54.276Z",
   "recentAt": "2026-11-25T19:54:18.688Z",
   "backoffUntil": 0,
-  "providerUsed": 51,
+  "providerUsed": 52,
   "providerReset": 1797265087890,
   "warnings": [
     "Источник ограничивает список результатов: часть матчей за последние 7 дней может отсутствовать."
   ],
-  "updatedAt": "2026-11-25T19:54:30.746Z"
+  "updatedAt": "2026-11-25T19:54:38.387Z"
 }
