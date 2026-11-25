@@ -420,7 +420,22 @@
       "format": "BO3",
       "status": "finished",
       "statusSource": "provider-confirmed",
-      "maps": [],
+      "maps": [
+        {
+          "id": "cs2-match-2400570-map-1",
+          "name": "Mirage",
+          "team1Score": 13,
+          "team2Score": 5,
+          "statsEligible": true
+        },
+        {
+          "id": "cs2-match-2400570-map-2",
+          "name": "Cache",
+          "team1Score": 12,
+          "team2Score": 7,
+          "statsEligible": true
+        }
+      ],
       "players": [],
       "stage": "Swiss round 3",
       "observedAt": "2026-11-25T09:47:54.276Z",
@@ -1229,17 +1244,18 @@
       "maps": {
         "attempts": 1,
         "nextAt": 1795607274276,
-        "done": false
+        "done": true,
+        "unavailableReason": null
       }
     }
   },
   "scheduleAt": "2026-11-25T09:47:54.276Z",
   "recentAt": "2026-11-25T09:47:54.276Z",
   "backoffUntil": 0,
-  "providerUsed": 47,
+  "providerUsed": 48,
   "providerReset": 1797265087890,
   "warnings": [
     "Источник ограничивает список результатов: часть матчей за последние 7 дней может отсутствовать."
   ],
-  "updatedAt": "2026-11-25T09:48:05.688Z"
+  "updatedAt": "2026-11-25T09:48:11.973Z"
 }
