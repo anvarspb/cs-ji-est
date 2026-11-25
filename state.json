@@ -1220,6 +1220,13 @@
         "done": false,
         "unavailableReason": null
       }
+    },
+    "cs2-match-2400570": {
+      "maps": {
+        "attempts": 1,
+        "nextAt": 1795607274276,
+        "done": false
+      }
     }
   },
   "scheduleAt": "2026-11-25T09:47:54.276Z",
