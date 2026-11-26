@@ -2022,6 +2022,13 @@
         "nextAt": 0,
         "done": false
       }
+    },
+    "cs2-match-2400576": {
+      "maps": {
+        "attempts": 1,
+        "nextAt": 1795702854561,
+        "done": false
+      }
     }
   },
   "scheduleAt": "2026-11-26T02:48:30.934Z",
