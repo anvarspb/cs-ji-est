@@ -1959,6 +1959,13 @@
         "done": false,
         "unavailableReason": null
       }
+    },
+    "cs2-match-2400572": {
+      "maps": {
+        "attempts": 1,
+        "nextAt": 1795668510934,
+        "done": false
+      }
     }
   },
   "scheduleAt": "2026-11-26T02:48:30.934Z",
