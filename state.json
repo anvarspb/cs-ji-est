@@ -2055,6 +2055,11 @@
         "nextAt": 1795702854561,
         "done": true,
         "unavailableReason": null
+      },
+      "stats": {
+        "attempts": 1,
+        "nextAt": 1795702854561,
+        "done": false
       }
     }
   },
