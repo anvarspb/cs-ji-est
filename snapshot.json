@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T14:59:20.665Z",
+  "updatedAt": "2026-11-27T14:59:27.307Z",
   "matches": [
     {
       "id": "cs2-match-2400494",
@@ -1590,7 +1590,29 @@
       "format": "BO3",
       "status": "finished",
       "statusSource": "provider-confirmed",
-      "maps": [],
+      "maps": [
+        {
+          "id": "cs2-match-2400574-map-1",
+          "name": "Mirage",
+          "team1Score": 13,
+          "team2Score": 3,
+          "statsEligible": true
+        },
+        {
+          "id": "cs2-match-2400574-map-2",
+          "name": "Ancient",
+          "team1Score": 11,
+          "team2Score": 13,
+          "statsEligible": true
+        },
+        {
+          "id": "cs2-match-2400574-map-3",
+          "name": "Nuke",
+          "team1Score": 13,
+          "team2Score": 3,
+          "statsEligible": true
+        }
+      ],
       "players": [],
       "stage": "Swiss round 4",
       "observedAt": "2026-11-26T12:20:54.561Z",
