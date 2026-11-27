@@ -1620,7 +1620,22 @@
       "format": "BO3",
       "status": "finished",
       "statusSource": "provider-confirmed",
-      "maps": [],
+      "maps": [
+        {
+          "id": "cs2-match-2400575-map-1",
+          "name": "Ancient",
+          "team1Score": 7,
+          "team2Score": 13,
+          "statsEligible": true
+        },
+        {
+          "id": "cs2-match-2400575-map-2",
+          "name": "Dust2",
+          "team1Score": 10,
+          "team2Score": 13,
+          "statsEligible": true
+        }
+      ],
       "players": [],
       "stage": "Swiss round 4",
       "observedAt": "2026-11-26T12:20:54.561Z",
@@ -2440,17 +2455,18 @@
       "maps": {
         "attempts": 1,
         "nextAt": 1795762784902,
-        "done": false
+        "done": true,
+        "unavailableReason": null
       }
     }
   },
   "scheduleAt": "2026-11-26T22:17:46.578Z",
   "recentAt": "2026-11-26T12:20:54.561Z",
   "backoffUntil": 0,
-  "providerUsed": 58,
+  "providerUsed": 59,
   "providerReset": 1797265087890,
   "warnings": [
     "Источник ограничивает список результатов: часть матчей за последние 7 дней может отсутствовать."
   ],
-  "updatedAt": "2026-11-26T12:21:13.432Z"
+  "updatedAt": "2026-11-27T04:59:47.924Z"
 }

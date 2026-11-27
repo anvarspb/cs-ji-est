@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T12:21:13.432Z",
+  "updatedAt": "2026-11-27T04:59:47.924Z",
   "matches": [
     {
       "id": "cs2-match-2400494",
@@ -1621,7 +1621,22 @@
       "format": "BO3",
       "status": "finished",
       "statusSource": "provider-confirmed",
-      "maps": [],
+      "maps": [
+        {
+          "id": "cs2-match-2400575-map-1",
+          "name": "Ancient",
+          "team1Score": 7,
+          "team2Score": 13,
+          "statsEligible": true
+        },
+        {
+          "id": "cs2-match-2400575-map-2",
+          "name": "Dust2",
+          "team1Score": 10,
+          "team2Score": 13,
+          "statsEligible": true
+        }
+      ],
       "players": [],
       "stage": "Swiss round 4",
       "observedAt": "2026-11-26T12:20:54.561Z",
