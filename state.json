@@ -2068,7 +2068,9 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 4",
-      "observedAt": "2026-11-26T02:48:30.934Z"
+      "observedAt": "2026-11-26T02:48:30.934Z",
+      "pollStoppedAt": "2026-11-27T04:59:44.902Z",
+      "statusNote": "Результат не подтверждён; автоматическое ожидание остановлено"
     },
     {
       "id": "cs2-match-2400578",
@@ -2094,7 +2096,9 @@
       "maps": [],
       "players": [],
       "stage": "Swiss round 4",
-      "observedAt": "2026-11-26T02:48:30.934Z"
+      "observedAt": "2026-11-26T02:48:30.934Z",
+      "pollStoppedAt": "2026-11-27T04:59:44.902Z",
+      "statusNote": "Результат не подтверждён; автоматическое ожидание остановлено"
     }
   ],
   "tournaments": [
@@ -2426,6 +2430,13 @@
         "nextAt": 1795702854561,
         "done": true,
         "unavailableReason": null
+      }
+    },
+    "cs2-match-2400575": {
+      "maps": {
+        "attempts": 1,
+        "nextAt": 1795762784902,
+        "done": false
       }
     }
   },
