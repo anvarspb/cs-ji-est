@@ -2717,6 +2717,13 @@
         "done": false,
         "unavailableReason": null
       }
+    },
+    "cs2-match-2400574": {
+      "maps": {
+        "attempts": 1,
+        "nextAt": 1795798749405,
+        "done": false
+      }
     }
   },
   "scheduleAt": "2026-11-27T14:59:09.405Z",
