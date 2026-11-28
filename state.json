@@ -3138,6 +3138,13 @@
         "done": false,
         "unavailableReason": null
       }
+    },
+    "cs2-match-2400573": {
+      "maps": {
+        "attempts": 1,
+        "nextAt": 1795891830925,
+        "done": false
+      }
     }
   },
   "scheduleAt": "2026-11-28T07:40:41.931Z",
